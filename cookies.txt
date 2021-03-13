@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.medium.com	TRUE	/	FALSE	1999999999	__cfduid	d43346c646fde5577348ec407410757871615293320
+cdn-images-1.medium.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.teslaevent.org	TRUE	/	FALSE	1999999999	__cfduid	dcff533885c3a9efb7adc39f6b40f4a9a1615293325
+www.teslaevent.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+.randomuser.me	TRUE	/	FALSE	1999999999	__cfduid	d4d8aa5e8c326a6375467030f9a56d9581615293340
+randomuser.me	TRUE	/	FALSE	1999999999	SameSite	Lax
+.medium.com	TRUE	/	FALSE	1999999999	__cfruid	401b4453ee21462f0ff7e475a42e9c5537bd26b4-1615293341
+cdn-static-1.medium.com	TRUE	/	FALSE	1999999999	SameSite	None
+.bootstrapcdn.com	TRUE	/	FALSE	1999999999	__cfduid	d87c4d79e5b74a5f2c0027e780e7690261615293350
+maxcdn.bootstrapcdn.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

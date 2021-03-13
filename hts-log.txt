@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 09 Mar 2021 13:35:03 at https://dropmusk.ug/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dropmusk.ug/ -O1 "C:\My Web Sites\dropmusk" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:35:42	Error: 	"Service Unavailable" (503) at link https://www.teslaevent.org/files/0_jTL6h8JXKd29jdTx.jpg (from https://dropmusk.ug/)
+13:35:42	Error: 	"Service Temporarily Unavailable" (503) at link https://www.teslaevent.org/files/1_U3yrRtqWkn2cCwLnYCxN-w.jpg (from https://dropmusk.ug/)
+13:35:42	Error: 	"Service Temporarily Unavailable" (503) at link https://www.teslaevent.org/files/1_U3yrRtqWkn2cCwLnYCxN-w1.jpg (from https://dropmusk.ug/)
+13:35:42	Error: 	"Service Temporarily Unavailable" (503) at link https://www.teslaevent.org/%22https://cdn-images-1.medium.com/fit/c/267/80/1*W3NAlwQT1bOtU5fmLkSsAw.png (from https://dropmusk.ug/)
+13:35:42	Error: 	"Service Unavailable" (503) at link https://www.teslaevent.org/%22https://cdn-images-1.medium.com/fit/c/267/80/1*Cdg08ju32T26LsY8pOboiQ.jpeg (from https://dropmusk.ug/)
+13:35:42	Error: 	"Service Temporarily Unavailable" (503) at link https://www.teslaevent.org/%22https://cdn-images-1.medium.com/fit/c/267/80/1*4Tuy2sflhKdOt6ity_Eo_A.jpeg (from https://dropmusk.ug/)
+13:35:42	Error: 	"Service Temporarily Unavailable" (503) at link https://www.teslaevent.org/files/1_U3yrRtqWkn2cCwLnYCxN-w2.jpg (from https://dropmusk.ug/)
+13:35:56	Error: 	"Not Found" (404) at link https://dropmusk.ug/xrp/index.html (from https://dropmusk.ug/)
+13:35:56	Error: 	"Not Found" (404) at link https://dropmusk.ug/suport@muskelon.live (from https://dropmusk.ug/)
+13:35:57	Error: 	"Not Found" (404) at link https://dropmusk.ug/btc/img/link.png (from https://dropmusk.ug/btc/index.html)
+13:35:57	Error: 	"Not Found" (404) at link https://dropmusk.ug/eth/img/link.png (from https://dropmusk.ug/eth/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 7 seconds : 55 links scanned, 43 files written (3438726 bytes overall) [2134030 bytes received at 31851 bytes/sec], 1711421 bytes transferred using HTTP compression in 15 files, ratio 21%, 2.3 requests per connection
+(11 errors, 0 warnings, 0 messages)
